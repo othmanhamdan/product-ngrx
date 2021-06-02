@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "printer",
+      "price": 6500,
+      "quantity": 200,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 8,
+      "name": " SV V V V Vv v v v v v v v v ",
+      "price": "33223",
+      "quantity": "33",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "FRFRF",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": false,
+      "id": 9
+    }
+  ]
+}
